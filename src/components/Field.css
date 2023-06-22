@@ -1,0 +1,16 @@
+.inputContainer{
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+}
+select{
+    height:100%;    
+    font-size: 300%;
+    border:none;
+}
+input{
+    height: 50%;
+    width:70%;
+    font-size: 100%;
+    text-align: center;
+}
